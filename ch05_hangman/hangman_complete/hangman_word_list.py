@@ -1,0 +1,10 @@
+word_list = [ "apple", "banana", "orange", "grape", "peach",
+    "monkey", "tiger", "zebra", "elephant", "giraffe",
+    "river", "mountain", "desert", "forest", "ocean",
+    "school", "pencil", "notebook", "teacher", "student",
+    "window", "mirror", "kitchen", "bedroom", "bathroom",
+    "planet", "galaxy", "comet", "asteroid", "rocket",
+    "puzzle", "guitar", "violin", "camera", "painter",
+    "doctor", "farmer", "police", "fireman", "pilot",
+    "castle", "village", "jungle", "island", "volcano",
+    "summer", "winter", "autumn", "spring", "weather" ]
