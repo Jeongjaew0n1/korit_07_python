@@ -19,6 +19,7 @@ def play_hangman ():
         for i in range(len(chosen_word)):
             if chosen_word[i] == guess:
                 display[i] = guess
+
         if guess not in chosen_word:
             lives -= 1
             print(f'당신의 기회는 {lives} 번 남았습니다.')
