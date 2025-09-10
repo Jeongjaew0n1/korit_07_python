@@ -110,6 +110,8 @@ emily is dead
 그래서 강제로 emily is dead 출력하고 싶지 않다면. 꼼수가 필요함
 '''
 
+# input('소멸자가 호출되는 것을 막는 중입니다.')
+
 '''
 python 판 getter / setter
 setter는 call2() 유형 -> 매개변수 o / 리턴 x
